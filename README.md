@@ -2,7 +2,7 @@
 Version of the arcade classic pong, but with 4 simultaneous players. Implemented on an UPDuino
 
 ## Project information
-This project was part of a group project for Intro to Digital Logic Circuits (ES4). This project was implemented on the UPDuino V2.0, part name iCE40UP5K-SG48I. Other group members are Olive Garst, Tiamike Dudley, and Daisy Sanchez
+This project was part of a group project for Intro to Digital Logic Circuits (ES4). This project was implemented on the UPDuino V2.0, part name iCE40UP5K-SG48I. Other group members are Olive Garst, Tiamike Dudley, and Daisy Sanchez.
 
 ## Game concept
 - Like the classic version of pong, each player controls a "paddle" which they move along the edge of the play area. There are 4 players, each belonging to one of the 4 sides of the play area. 
