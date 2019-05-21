@@ -6,8 +6,10 @@ This project was part of a group project for Intro to Digital Logic Circuits (ES
 
 ## Game concept
 - Like the classic version of pong, each player controls a "paddle" which they move along the edge of the play area. There are 4 players, each belonging to one of the 4 sides of the play area. 
-- There is also a ball which bounces around.
-The objective of the game is to keep the ball from going out on your side. If the ball *does* go out on your side, your paddle will be replaced with a wall, and you will no longer be in the game. The last person still in the game is the winner.
+- There is a ball which bounces around.
+- The objective of the game is to keep the ball from going out on your side. 
+- If the ball *does* go out on your side, your paddle will be replaced with a wall, and you will no longer be in the game. 
+- The last person still in the game is the winner.
 ### details
 - Paddles are controlled via rotary encoders.
 - The ball bounces off paddles at different angles depending on what part of the paddle it hits. Walls will just reflect the ball.
