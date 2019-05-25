@@ -1,5 +1,5 @@
 # 4-player-pong
-Version of the arcade classic pong, but with 4 simultaneous players. Implemented on an UPDuino
+Version of the arcade classic pong, but with 4 simultaneous players. Implemented on an iCE40.
 
 ## Project information
 This project was part of a group project for Intro to Digital Logic Circuits (ES4). This project was implemented on the UPDuino V2.0, part name iCE40UP5K-SG48I. Other group members are Olive Garst, Tiamike Dudley, and Daisy Sanchez.
