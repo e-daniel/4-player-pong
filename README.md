@@ -17,4 +17,4 @@ This project was part of a group project for Intro to Digital Logic Circuits (ES
 - There is no win screen or score count, to start/restart the game press the reset button.
 - Displays via VGA, using a simple 6-bit breakout board.
 
-This project uses the Lattice iCE40 UltraPlus PLL IP (not included).
+This project uses the Lattice iCE40 UltraPlus PLL IP (not included), as well as the on-chip high frequency oscillator (HFOSC).
