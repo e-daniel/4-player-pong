@@ -10,7 +10,7 @@ This project was part of a group project for Intro to Digital Logic Circuits (ES
 - The objective of the game is to keep the ball from going out on your side. 
 - If the ball *does* go out on your side, your paddle will be replaced with a wall, and you will no longer be in the game. 
 - The last person still in the game is the winner.
-### details
+### Details
 - Paddles are controlled via rotary encoders.
 - The ball bounces off paddles at different angles depending on what part of the paddle it hits. Walls will just reflect the ball.
 - This game can be played with a max of 4 players, if you wish to play with less let the ball hit the unoccupied sides.
